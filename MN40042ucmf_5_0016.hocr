@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "MN40042ucmf_5_0016.png"; bbox 0 0 1520 2600; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 174 2278 518 2396">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 174 2278 518 2396">
+     <span class='ocr_line' id='line_1_1' title="bbox 283 2278 409 2315; baseline 0.056 -10"><span class='ocrx_word' id='word_1_1' title='bbox 283 2278 354 2308; x_wconf 72' lang='lat' dir='ltr'><strong>Nnrbmuu</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 363 2282 409 2315; x_wconf 58' lang='lat' dir='ltr'>{itm</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 174 2315 518 2356; baseline 0.049 -17"><span class='ocrx_word' id='word_1_3' title='bbox 174 2315 187 2339; x_wconf 61' lang='lat' dir='ltr'>J,</span> <span class='ocrx_word' id='word_1_4' title='bbox 195 2316 209 2340; x_wconf 88' lang='lat' dir='ltr'>S.</span> <span class='ocrx_word' id='word_1_5' title='bbox 217 2317 297 2350; x_wconf 70' lang='lat' dir='ltr'>Cushing&amp;</span> <span class='ocrx_word' id='word_1_6' title='bbox 304 2323 487 2354; x_wconf 69' lang='lat' dir='ltr'>Co.-sserwick&amp;smith</span> <span class='ocrx_word' id='word_1_7' title='bbox 494 2331 518 2356; x_wconf 79' lang='lat' dir='ltr'>Co.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 249 2359 440 2396; baseline 0.058 -14"><span class='ocrx_word' id='word_1_8' title='bbox 249 2359 326 2393; x_wconf 78' lang='lat' dir='ltr'>Norwood,</span> <span class='ocrx_word' id='word_1_9' title='bbox 335 2364 382 2396; x_wconf 71' lang='lat' dir='ltr'>Mass.¹</span> <span class='ocrx_word' id='word_1_10' title='bbox 389 2367 440 2392; x_wconf 55' lang='lat' dir='ltr'>Um</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 764 2600">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 764 2600">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 764 2600; baseline 0 0"><span class='ocrx_word' id='word_1_11' title='bbox 0 0 764 2600; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

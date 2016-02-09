@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "MN40042ucmf_5_0006.png"; bbox 0 0 2464 3512; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 236 535 1013 831">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 236 517 1013 831">
+     <span class='ocr_line' id='line_1_1' title="bbox 236 535 1013 831; baseline 0.022 -17"><span class='ocrx_word' id='word_1_1' title='bbox 236 535 1013 831; x_wconf 77' lang='lat' dir='ltr'>Suetonius</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 230 1463 1171 1755">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 230 1463 1171 1755">
+     <span class='ocr_line' id='line_1_2' title="bbox 230 1463 1171 1755; baseline 0.02 -18"><span class='ocrx_word' id='word_1_2' title='bbox 230 1463 509 1741; x_wconf 78' lang='lat' dir='ltr'>Gai</span> <span class='ocrx_word' id='word_1_3' title='bbox 572 1470 1171 1755; x_wconf 80' lang='lat' dir='ltr'>Suetoni</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 6 1925 1232 2287">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 6 1925 1232 2287">
+     <span class='ocr_line' id='line_1_3' title="bbox 6 1925 1232 2287; baseline -0.002 -94"><span class='ocrx_word' id='word_1_4' title='bbox 6 2007 7 2011; x_wconf 9' lang='grc' dir='ltr'><em>Ὗ</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 226 1925 1017 2287; x_wconf 77' lang='lat' dir='ltr'>Tranquilli</span> <span class='ocrx_word' id='word_1_6' title='bbox 1077 1939 1232 2217; x_wconf 93' lang='lat' dir='ltr'>d</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 6 18 1236 3468">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 6 18 1236 3468">
+     <span class='ocr_line' id='line_1_4' title="bbox 6 18 1236 3468; baseline 0 0"><span class='ocrx_word' id='word_1_7' title='bbox 6 18 1236 3468; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 1 2845 1178 3206">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 1 2673 1178 3206">
+     <span class='ocr_line' id='line_1_5' title="bbox 1 2845 1178 3206; baseline 0.023 -93"><span class='ocrx_word' id='word_1_8' title='bbox 1 3203 3 3206; x_wconf 0' lang='lat' dir='ltr'> </span> <span class='ocrx_word' id='word_1_9' title='bbox 217 2845 820 3181; x_wconf 76' lang='lat' dir='ltr'>Boston,</span> <span class='ocrx_word' id='word_1_10' title='bbox 904 2857 1178 3140; x_wconf 79' lang='lat'>190</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
